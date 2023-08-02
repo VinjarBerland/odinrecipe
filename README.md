@@ -1,1 +1,1 @@
-# odinrecipe
+in this project im gonna make a simple website
